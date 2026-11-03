@@ -1,0 +1,13 @@
+Safe use of Artificial Intelligence in the programming environment
+Безопасное использование искусственного интеллекта в среде программирования
+
+Automation of software testing in corporate environment
+Автоматизация тестирования программного обеспечения в корпоративной среде
+
+Accelerating software development and feedback in CI/CD
+Ускорение разработки программного обеспечения и обратной связи в CI/CD
+
+Automatic deployment Infrastructure as Code in modern IT-projects
+Автоматическое развёртывание Intrastructure as Code в современных ИТ-проектах
+
+https://www.sostav.ru/blogs/292995/111974
